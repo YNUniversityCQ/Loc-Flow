@@ -6,5 +6,5 @@ Pre-trained models are not included, as all results reported in our manuscript c
 Two test scripts are available: one for regression analysis and another for heatmap visualization, both of which should be used in conjunction with the data loader. 
 The code for the comparative methods is available from source (https://github.com/CagkanYapar/LocUNet), and we gratefully acknowledge the authors for their contribution. 
 If this project proves useful for your research, please consider citing our work "Radio Map-Driven Wireless User Localization with Learning Spatial Coordinate Distribution". 
-For any questions, you may contact us via email C.
+For any questions, you may contact us via email (chenqi_7oou@stu.ynu.edu.cn).
 Thank you!!!
